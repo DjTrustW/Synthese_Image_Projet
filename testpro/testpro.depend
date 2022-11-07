@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1653062758 source:/home7/mg832620/Documents/L3/SI/testpro/point.cpp
+	"point.h"
+	<cmath>
+
+1653062762 /home7/mg832620/Documents/L3/SI/testpro/point.h
+
+1653062750 source:/home7/mg832620/Documents/L3/SI/testpro/cylinder.cpp
+	"cylinder.h"
+	<cmath>
+	<iostream>
+	<vector>
+
+1653062750 /home7/mg832620/Documents/L3/SI/testpro/cylinder.h
+	"point.h"
+	"face4.h"
+	<vector>
+	<GL/glut.h>
+
+1653062754 /home7/mg832620/Documents/L3/SI/testpro/face4.h
+
+1653062754 source:/home7/mg832620/Documents/L3/SI/testpro/face4.cpp
+	"face4.h"
+
+1653062764 source:/home7/mg832620/Documents/L3/SI/testpro/Revolution.cpp
+	"Revolution.h"
+
+1653062764 /home7/mg832620/Documents/L3/SI/testpro/Revolution.h
+	<cmath>
+	<vector>
+	<GL/glut.h>
+	"point.h"
+	"face4.h"
+
+1653062768 source:/home7/mg832620/Documents/L3/SI/testpro/sphere.cpp
+	"sphere.h"
+	<cmath>
+	<iostream>
+	<vector>
+
+1653062740 /home7/mg832620/Documents/L3/SI/testpro/sphere.h
+	"point.h"
+	"face4.h"
+	<vector>
+	<GL/glut.h>
+
+1653062740 source:/home7/mg832620/Documents/L3/SI/testpro/tore.cpp
+	"tore.h"
+	<cmath>
+	<iostream>
+	<vector>
+
+1653062744 /home7/mg832620/Documents/L3/SI/testpro/tore.h
+	"point.h"
+	"face4.h"
+	<vector>
+	<GL/glut.h>
+
+1653062746 source:/home7/mg832620/Documents/L3/SI/testpro/bezier4.cpp
+	"bezier4.h"
+	<cmath>
+	<vector>
+	<cstdio>
+
+1653062748 /home7/mg832620/Documents/L3/SI/testpro/bezier4.h
+	<cmath>
+	<vector>
+	"point.h"
+
+1667843844 source:/home7/mg832620/Documents/L3/SI/testpro/cube.cpp
+	<GL/freeglut.h>
+	<cstdlib>
+	"cylinder.h"
+	"bezier4.h"
+	"Revolution.h"
+	"sphere.h"
+	"tore.h"
+
