@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668386518 source:/home7/mg832620/Documents/L3/SI/cube.cpp
+	<GL/freeglut.h>
+	<cstdlib>
+
+1668391362 source:/home7/mg832620/Documents/L3/SI/Projet/main.cpp
+	<math.h>
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+
