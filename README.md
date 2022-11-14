@@ -1,2 +1,4 @@
 # Synthese_Image_Projet
-heu ouais les bulles
+ouais les bulles
+
+Coder sur Code::Block aves les librairie freeglut et jpeg ( sous linux seulement )
